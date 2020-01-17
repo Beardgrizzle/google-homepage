@@ -1,8 +1,15 @@
-div 
-    {
-    display: table-cell;
-    height: 300px;
+#logo {
+    box-sizing: content-box;
+    width: 200px;
+    min-width: 100px;
+    max-width: 200px;
+    height: 200px;
+    min-width: 100px;
+    max-height: 200px;
+
+}
+div {
+    position: relative;
     text-align: center;
-    width: 300px;
-    vertical-align: middle;
-    }
+    margin: auto;
+}
