@@ -119,3 +119,34 @@ forms {
     opacity: 0.75;
     text-decoration: none;
 }
+.bottomleft {
+    position: absolute;
+    margin: 7px 0 0 10px;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    bottom: 5px;
+    left: -5px;
+}
+.bottomright {
+    position: absolute;
+    margin: 7px 0 0 10px;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    bottom: 5px;
+    right: 05px;
+}
+.ad,.bus,.how {
+    display: inline-block;
+    color: #5f6368;
+    text-decoration: none;
+    white-space: nowrap;
+    padding-left: 17px;
+}
+
+.priv,.term,.set {
+    display: inline-block;
+    color: #5f6368;
+    text-decoration: none;
+    white-space: nowrap;
+    padding-right: 17px;
+}
