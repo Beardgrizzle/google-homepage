@@ -82,6 +82,7 @@ forms {
     font-size: 13px;
     top: 9px;
     left: 12px;
+    z-index: 10;
 }
 .about {
     display: inline-block;
@@ -104,6 +105,7 @@ forms {
     margin:9px 10px 0 0;
     font-size: 13px;
     font-family: arial, sans-serif;
+    z-index: 10;
 }
 .Gmail {
     display: inline-block;
