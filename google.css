@@ -78,6 +78,8 @@ forms {
 .topleft {
     position: absolute;
     margin: 7px 0 0 10px;
+    font-family: arial, sans-serif;
+    font-size: 13px;
 }
 .about {
     display: inline-block;
